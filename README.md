@@ -1,6 +1,6 @@
 
 ## ФИО: Черников Степан 021 гр; 11 класс
-- ![image](https://user-images.githubusercontent.com/114472390/192467910-26db5cb4-2eda-4431-9b53-60151b9b934f.png)
+ ![image](https://user-images.githubusercontent.com/114472390/192467910-26db5cb4-2eda-4431-9b53-60151b9b934f.png)
 - How to reach me coolsach3000@gmail.com or https://github.com/Stepan5471/domashka_Stepan_021.git
 
 <!---
