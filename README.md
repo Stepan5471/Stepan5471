@@ -4,10 +4,10 @@
 - How to reach me coolsach3000@gmail.com or https://github.com/Stepan5471/domashka_Stepan_021.git
 - Stepan5471.github.io
  ## ХиХи-ХаХа
+ Репозиторий DATABASE:
+1) Untitled (1).ipynb - записная книжка
+2) Baza.py - база данных
 <!---
 Stepan5471/Stepan5471 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---
-Репозиторий DATABASE:
-1) Untitled (1).ipynb - записная книжка
-2) Baza.py - база данных
