@@ -8,4 +8,6 @@
 Stepan5471/Stepan5471 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---
-
+Репозиторий DATABASE:
+1) Untitled (1).ipynb - записная книжка
+2) Baza.py - база данных
