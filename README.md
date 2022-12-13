@@ -1,5 +1,6 @@
 
 ## ФИО: Черников Степан 021 гр; 11 класс
+![images](https://user-images.githubusercontent.com/114472390/207257460-274874e9-bc49-4d40-a742-08980b3ecb66.jpg)
  ![image](https://user-images.githubusercontent.com/114472390/192467910-26db5cb4-2eda-4431-9b53-60151b9b934f.png)
 - How to reach me coolsach3000@gmail.com or https://github.com/Stepan5471/domashka_Stepan_021.git
 - Stepan5471.github.io
@@ -32,5 +33,6 @@ $$ \sin \alpha \sin \beta ={\frac  {\cos(\alpha -\beta )-\cos(\alpha +\beta )}{2
 
 ![lagrida_latex_editor (7)](https://user-images.githubusercontent.com/114472390/200511243-b5ed48a0-6859-47a9-a4aa-06910ed1bc58.png)
 #
+
 
 
