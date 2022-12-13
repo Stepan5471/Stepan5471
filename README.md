@@ -32,6 +32,8 @@ $$ \lim_{x \to \infty}\left(1 + \frac{1}{x}\right)^x = e $$
 $$ \sin \alpha \sin \beta ={\frac  {\cos(\alpha -\beta )-\cos(\alpha +\beta )}{2}} $$
 
 ![lagrida_latex_editor (7)](https://user-images.githubusercontent.com/114472390/200511243-b5ed48a0-6859-47a9-a4aa-06910ed1bc58.png)
+
+https://tilda.cc/page/?pageid=32577301#form
 #
 
 
